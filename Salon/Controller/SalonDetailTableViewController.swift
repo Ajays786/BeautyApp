@@ -37,7 +37,12 @@ class SalonDetailTableViewController: BaseViewController {
         nameCell.text = "Stylist Name - " + info.Name
             priceCell.text = "Price - " + "Regular Price " + info.PromoPrice + " and Discount " + "\(Int(info.TotalDiscount) ?? 0)" + " %"
         timeCell.text =  "\(info.TimeDate.prefix(8))"
-        addressCell.text = "Distance From You - " + "2.5 Miles"
+            if info.Miles != ""{
+            addressCell.text = "Distance From You - " + info.Miles
+            }
+            else{
+                addressCell.text = "Distance From You - 2.5 Miles "
+            }
         Services.text =  "Services - " + info.Services.joined(separator: ",")
         Date.text = "\(info.TimeDate.suffix(8))"
         UserName.text = info.Name

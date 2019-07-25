@@ -13,6 +13,7 @@ import FirebaseFirestore
 class DealModel {
     var Services = [String]()
     var Name = ""
+    var Miles = ""
     var PromoPrice = ""
     var RegularPrice = ""
     var TotalDiscount = ""
@@ -77,7 +78,12 @@ class DealModel {
         else {
             self.TimeDate = "error "
         }
-
+        if let Miles = data["miles"] as? String{
+            self.Miles = Miles
+        }
+        else {
+            self.Miles = ""
+        }
     }
 }
 //Name

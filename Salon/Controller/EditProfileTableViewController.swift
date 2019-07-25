@@ -62,7 +62,7 @@ class EditProfileTableViewController: UIViewController, UIImagePickerControllerD
             locationManager.requestAlwaysAuthorization()
             locationManager.startUpdatingLocation()
             print("startUpdatingLocation...............")
-            let myLocation = CLLocation(latitude: (locationManager.location?.coordinate.latitude)!, longitude: (locationManager.location?.coordinate.longitude)!)
+             let myLocation = CLLocation(latitude: (locationManager.location?.coordinate.latitude)!, longitude: (locationManager.location?.coordinate.longitude)!)
             let dealsRef = db.collection("user").document(Auth.auth().currentUser?.uid ?? "")
             lat = myLocation.coordinate.latitude
             long = myLocation.coordinate.longitude

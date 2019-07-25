@@ -10,6 +10,10 @@ import UIKit
 import FirebaseFirestore
 import FirebaseStorage
 import Firebase
+import CoreLocation
+import Alamofire
+import SDWebImage
+//import FirebaseStorageUI
 class ProfessionalsViewController: BaseViewController,UITableViewDelegate,UITableViewDataSource {
     var db: Firestore!
     var deals: [ProModel] = [] {
@@ -52,15 +56,41 @@ class ProfessionalsViewController: BaseViewController,UITableViewDelegate,UITabl
     func tableView(_ tableView: UITableView, cellForRowAt indexPath: IndexPath) -> UITableViewCell {
         let cell = tableView.dequeueReusableCell(withIdentifier: "ProfCell") as! ProfessionalsTableViewCell
         cell.selectionStyle = .none
+        print(deals[indexPath.row].userID)
         cell.Name.text = deals[indexPath.row].name
-        var ref = Storage.storage().reference(withPath: "profile_images")
-        ref = ref.child(deals[indexPath.row].icon ?? ""+".png")
-        ref.getData(maxSize: 1 * 1024 * 1024) { data, error in
-            if let error = error {
-                print(self.deals[indexPath.row].icon,"eroooooor",ref)
-            } else {
-                let imageV = UIImage(data: data!)
-                cell.ProfileImage.image = imageV
+        db = Firestore.firestore()
+//        var ref = Storage.storage().reference(withPath: "profile_images")
+//        let image = deals[indexPath.row].userID
+//         ref = ref.child(image+".png")
+//        cell.ProfileImage.sd_setImage(with: ref, placeholderImage:UIImage(named: "avatar"))
+//
+//        // Placeholder image
+//        let placeholderImage = UIImage(named: "placeholder.jpg")
+//
+//        // Load the image using SDWebImage
+//        imageView.sd_setImage(with: reference, placeholderImage: placeholderImage)
+        db.collection("user").document(deals[indexPath.row].userID).addSnapshotListener { (snap, err) in
+            if let image = snap?.data()?["icon"] as? String {
+                var ref = Storage.storage().reference(withPath: "profile_images")
+                ref = ref.child(image+".png")
+                ref.getData(maxSize: 1 * 1024 * 1024) { data, error in
+                    if let error = error {
+                      print(error)
+                    }
+                    else {
+                        let imageV = UIImage(data: data!)
+                        cell.ProfileImage.image = imageV
+                    }
+                }
+            }
+            if let latitude = snap?.data()?["lat"] as? String, let longitude = snap?.data()?["long"] as? String{
+                let buddylat = Double(latitude)
+                let buddylong = Double(longitude)
+                //                cell.address.text = addresss
+                let myLocation = CLLocation(latitude: lat, longitude: long)
+                let mybuddyLocation = CLLocation(latitude: buddylat!, longitude: buddylong!)
+                let Distance = self.CalculateDistance(MyLocation: myLocation, MybuddyLocation: mybuddyLocation)
+                cell.Distance.text = "\(round(Distance))" + " Miles Away"
             }
         }
         return cell

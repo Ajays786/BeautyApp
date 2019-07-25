@@ -27,4 +27,6 @@ target 'Salon' do
     pod 'Cosmos'
     pod 'Fabric', '~> 1.10.2'
     pod 'Crashlytics', '~> 3.13.3'
+    pod 'SDWebImage'
+#    pod 'FirebaseUI/Storage'
 end

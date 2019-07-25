@@ -42,12 +42,12 @@
                   moduleName = "Salon"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/rahul.tiwari/Desktop/SalonBeauty/Salon/View/ChatMessageCell.swift"
-                  timestampString = "584538482.509967"
+                  timestampString = "585724870.876511"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "62"
                   endingLineNumber = "62"
-                  offsetFromSymbolStart = "114">
+                  offsetFromSymbolStart = "140">
                </Location>
                <Location
                   shouldBeEnabled = "Yes"
@@ -57,12 +57,12 @@
                   moduleName = "Salon"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/rahul.tiwari/Desktop/SalonBeauty/Salon/View/ChatMessageCell.swift"
-                  timestampString = "584538482.513921"
+                  timestampString = "585724870.879146"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "62"
                   endingLineNumber = "62"
-                  offsetFromSymbolStart = "128">
+                  offsetFromSymbolStart = "192">
                </Location>
                <Location
                   shouldBeEnabled = "Yes"
@@ -72,12 +72,12 @@
                   moduleName = "Salon"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/rahul.tiwari/Desktop/SalonBeauty/Salon/View/ChatMessageCell.swift"
-                  timestampString = "584538482.517547"
+                  timestampString = "585724870.8815449"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "0"
                   endingLineNumber = "0"
-                  offsetFromSymbolStart = "18">
+                  offsetFromSymbolStart = "20">
                </Location>
                <Location
                   shouldBeEnabled = "Yes"
@@ -87,12 +87,12 @@
                   moduleName = "Salon"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/rahul.tiwari/Desktop/SalonBeauty/Salon/View/ChatMessageCell.swift"
-                  timestampString = "584538482.522781"
+                  timestampString = "585724870.8839231"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "62"
                   endingLineNumber = "62"
-                  offsetFromSymbolStart = "4">
+                  offsetFromSymbolStart = "12">
                </Location>
             </Locations>
          </BreakpointContent>
@@ -104,7 +104,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Salon/Controller/DealTableViewController.swift"
-            timestampString = "585041261.019807"
+            timestampString = "585232226.702773"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "97"
@@ -200,11 +200,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Salon/Controller/DealTableViewController.swift"
-            timestampString = "585041261.019994"
+            timestampString = "585232226.702968"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "192"
-            endingLineNumber = "192"
+            startingLineNumber = "258"
+            endingLineNumber = "258"
             landmarkName = "prepare(for:sender:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -216,11 +216,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Salon/Controller/DealTableViewController.swift"
-            timestampString = "585041261.0200731"
+            timestampString = "585232226.703033"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "193"
-            endingLineNumber = "193"
+            startingLineNumber = "259"
+            endingLineNumber = "259"
             landmarkName = "prepare(for:sender:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -232,11 +232,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Salon/Controller/DealTableViewController.swift"
-            timestampString = "585041261.020144"
+            timestampString = "585232226.703095"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "194"
-            endingLineNumber = "194"
+            startingLineNumber = "260"
+            endingLineNumber = "260"
             landmarkName = "prepare(for:sender:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -248,11 +248,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Salon/Controller/DealTableViewController.swift"
-            timestampString = "585041261.02021"
+            timestampString = "585232226.703156"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "195"
-            endingLineNumber = "195"
+            startingLineNumber = "261"
+            endingLineNumber = "261"
             landmarkName = "prepare(for:sender:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -264,11 +264,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Salon/Controller/DealTableViewController.swift"
-            timestampString = "585041261.020275"
+            timestampString = "585232226.703216"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "181"
-            endingLineNumber = "181"
+            startingLineNumber = "188"
+            endingLineNumber = "188"
             landmarkName = "tableView(_:didSelectRowAt:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -280,11 +280,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Salon/Controller/DealTableViewController.swift"
-            timestampString = "585041261.020339"
+            timestampString = "585232226.703275"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "182"
-            endingLineNumber = "182"
+            startingLineNumber = "189"
+            endingLineNumber = "189"
             landmarkName = "tableView(_:didSelectRowAt:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -296,7 +296,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Salon/Controller/LogViewController.swift"
-            timestampString = "585041261.020404"
+            timestampString = "585045969.695735"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "285"
@@ -312,7 +312,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Salon/Controller/LogViewController.swift"
-            timestampString = "585041261.020475"
+            timestampString = "585045969.6958179"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "284"
@@ -328,7 +328,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Salon/Controller/LogViewController.swift"
-            timestampString = "585041261.0205359"
+            timestampString = "585045969.695892"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "254"
@@ -344,7 +344,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Salon/Controller/LogViewController.swift"
-            timestampString = "585041261.020597"
+            timestampString = "585045969.695954"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "255"
@@ -360,7 +360,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Salon/Controller/LogViewController.swift"
-            timestampString = "585041261.020656"
+            timestampString = "585045969.696015"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "256"
@@ -408,7 +408,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Salon/Controller/LogViewController.swift"
-            timestampString = "585041261.020717"
+            timestampString = "585045969.696076"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "260"
@@ -424,7 +424,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Salon/Controller/LogViewController.swift"
-            timestampString = "585041261.020777"
+            timestampString = "585045969.696136"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "261"
@@ -456,11 +456,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Salon/Controller/EditProfileTableViewController.swift"
-            timestampString = "585041261.020871"
+            timestampString = "585724860.963717"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "273"
-            endingLineNumber = "273"
+            startingLineNumber = "277"
+            endingLineNumber = "277"
             landmarkName = "NotificationAction(_:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -472,11 +472,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Salon/Controller/EditProfileTableViewController.swift"
-            timestampString = "585041261.021466"
+            timestampString = "585724860.964126"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "274"
-            endingLineNumber = "274"
+            startingLineNumber = "278"
+            endingLineNumber = "278"
             landmarkName = "NotificationAction(_:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -488,11 +488,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Salon/Controller/EditProfileTableViewController.swift"
-            timestampString = "585041261.0218771"
+            timestampString = "585724860.964274"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "272"
-            endingLineNumber = "272"
+            startingLineNumber = "276"
+            endingLineNumber = "276"
             landmarkName = "NotificationAction(_:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -504,11 +504,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Salon/Controller/EditProfileTableViewController.swift"
-            timestampString = "585041261.022243"
+            timestampString = "585724860.964377"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "328"
-            endingLineNumber = "328"
+            startingLineNumber = "332"
+            endingLineNumber = "332"
             landmarkName = "imagePickerController(_:didFinishPickingMediaWithInfo:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -520,11 +520,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Salon/Controller/EditProfileTableViewController.swift"
-            timestampString = "585041261.022598"
+            timestampString = "585724860.9644819"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "331"
-            endingLineNumber = "331"
+            startingLineNumber = "335"
+            endingLineNumber = "335"
             landmarkName = "imagePickerController(_:didFinishPickingMediaWithInfo:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -536,11 +536,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Salon/Controller/EditProfileTableViewController.swift"
-            timestampString = "585041261.022944"
+            timestampString = "585724860.9645669"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "334"
-            endingLineNumber = "334"
+            startingLineNumber = "338"
+            endingLineNumber = "338"
             landmarkName = "imagePickerController(_:didFinishPickingMediaWithInfo:)"
             landmarkType = "7">
             <Locations>
@@ -552,12 +552,12 @@
                   moduleName = "Salon"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/rahul.tiwari/Desktop/SalonBeauty/Salon/Controller/EditProfileTableViewController.swift"
-                  timestampString = "584538482.580952"
+                  timestampString = "585724871.034361"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "318"
-                  endingLineNumber = "318"
-                  offsetFromSymbolStart = "1084">
+                  startingLineNumber = "338"
+                  endingLineNumber = "338"
+                  offsetFromSymbolStart = "852">
                </Location>
                <Location
                   shouldBeEnabled = "Yes"
@@ -567,12 +567,12 @@
                   moduleName = "Salon"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/rahul.tiwari/Desktop/SalonBeauty/Salon/Controller/EditProfileTableViewController.swift"
-                  timestampString = "584538482.584607"
+                  timestampString = "585724871.037478"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "318"
-                  endingLineNumber = "318"
-                  offsetFromSymbolStart = "1130">
+                  startingLineNumber = "338"
+                  endingLineNumber = "338"
+                  offsetFromSymbolStart = "888">
                </Location>
             </Locations>
          </BreakpointContent>
@@ -584,11 +584,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Salon/Controller/EditProfileTableViewController.swift"
-            timestampString = "585041261.023293"
+            timestampString = "585724860.964649"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "337"
-            endingLineNumber = "337"
+            startingLineNumber = "341"
+            endingLineNumber = "341"
             landmarkName = "imagePickerController(_:didFinishPickingMediaWithInfo:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -600,11 +600,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Salon/Controller/EditProfileTableViewController.swift"
-            timestampString = "585041261.02363"
+            timestampString = "585724860.9647321"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "340"
-            endingLineNumber = "340"
+            startingLineNumber = "344"
+            endingLineNumber = "344"
             landmarkName = "imagePickerController(_:didFinishPickingMediaWithInfo:)"
             landmarkType = "7">
             <Locations>
@@ -616,12 +616,12 @@
                   moduleName = "Salon"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/rahul.tiwari/Desktop/SalonBeauty/Salon/Controller/EditProfileTableViewController.swift"
-                  timestampString = "584538482.602136"
+                  timestampString = "585724871.049698"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "325"
-                  endingLineNumber = "325"
-                  offsetFromSymbolStart = "2546">
+                  startingLineNumber = "345"
+                  endingLineNumber = "345"
+                  offsetFromSymbolStart = "2036">
                </Location>
                <Location
                   shouldBeEnabled = "Yes"
@@ -631,12 +631,12 @@
                   moduleName = "Salon"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/rahul.tiwari/Desktop/SalonBeauty/Salon/Controller/EditProfileTableViewController.swift"
-                  timestampString = "584538482.605679"
+                  timestampString = "585724871.052143"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "326"
-                  endingLineNumber = "326"
-                  offsetFromSymbolStart = "236">
+                  startingLineNumber = "346"
+                  endingLineNumber = "346"
+                  offsetFromSymbolStart = "188">
                </Location>
             </Locations>
          </BreakpointContent>
@@ -648,11 +648,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Salon/Controller/EditProfileTableViewController.swift"
-            timestampString = "585041261.024013"
+            timestampString = "585724860.9648139"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "216"
-            endingLineNumber = "216"
+            startingLineNumber = "220"
+            endingLineNumber = "220"
             landmarkName = "loadTable()"
             landmarkType = "7">
          </BreakpointContent>
@@ -664,11 +664,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Salon/Controller/EditProfileTableViewController.swift"
-            timestampString = "585041261.024567"
+            timestampString = "585724860.964927"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "218"
-            endingLineNumber = "218"
+            startingLineNumber = "222"
+            endingLineNumber = "222"
             landmarkName = "loadTable()"
             landmarkType = "7">
          </BreakpointContent>
@@ -680,11 +680,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Salon/Controller/EditProfileTableViewController.swift"
-            timestampString = "585041261.025198"
+            timestampString = "585724860.9650069"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "219"
-            endingLineNumber = "219"
+            startingLineNumber = "223"
+            endingLineNumber = "223"
             landmarkName = "loadTable()"
             landmarkType = "7">
          </BreakpointContent>
@@ -840,7 +840,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Salon/Controller/SettingFormViewController.swift"
-            timestampString = "584538759.599281"
+            timestampString = "585045379.0313441"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "423"
@@ -856,7 +856,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Salon/Controller/SettingFormViewController.swift"
-            timestampString = "584538759.599349"
+            timestampString = "585045379.031407"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "424"
@@ -872,7 +872,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Salon/Controller/LogViewController.swift"
-            timestampString = "585041261.026224"
+            timestampString = "585045969.69741"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "93"
@@ -968,11 +968,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Salon/Controller/EditProfileTableViewController.swift"
-            timestampString = "585041261.026394"
+            timestampString = "585724860.9663399"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "181"
-            endingLineNumber = "181"
+            startingLineNumber = "185"
+            endingLineNumber = "185"
             landmarkName = "loadUserProfile()"
             landmarkType = "7">
          </BreakpointContent>
@@ -1048,12 +1048,12 @@
                   moduleName = "Salon"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/rahul.tiwari/Desktop/SalonBeauty/Salon/Controller/ScheduleAppontmentController.swift"
-                  timestampString = "584538482.6447361"
+                  timestampString = "585724871.077112"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "497"
                   endingLineNumber = "497"
-                  offsetFromSymbolStart = "3316">
+                  offsetFromSymbolStart = "2868">
                </Location>
                <Location
                   shouldBeEnabled = "Yes"
@@ -1063,12 +1063,12 @@
                   moduleName = "Salon"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/rahul.tiwari/Desktop/SalonBeauty/Salon/Controller/ScheduleAppontmentController.swift"
-                  timestampString = "584538482.649097"
+                  timestampString = "585724871.079564"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "497"
                   endingLineNumber = "497"
-                  offsetFromSymbolStart = "251">
+                  offsetFromSymbolStart = "160">
                </Location>
             </Locations>
          </BreakpointContent>
@@ -1080,7 +1080,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Salon/Controller/SettingFormViewController.swift"
-            timestampString = "584538759.599858"
+            timestampString = "585045379.031767"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "178"
@@ -1096,7 +1096,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Salon/Controller/SettingFormViewController.swift"
-            timestampString = "584538759.599919"
+            timestampString = "585045379.031823"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "179"
@@ -1112,11 +1112,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Salon/Controller/EditProfileTableViewController.swift"
-            timestampString = "585041261.026978"
+            timestampString = "585724860.966887"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "205"
-            endingLineNumber = "205"
+            startingLineNumber = "209"
+            endingLineNumber = "209"
             landmarkName = "loadTable()"
             landmarkType = "7">
          </BreakpointContent>
@@ -1144,7 +1144,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Salon/Controller/SettingFormViewController.swift"
-            timestampString = "584538759.600099"
+            timestampString = "585045379.0319639"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "432"
@@ -1160,7 +1160,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Salon/Controller/SettingFormViewController.swift"
-            timestampString = "584538759.600159"
+            timestampString = "585045379.03202"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "433"
@@ -1176,7 +1176,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Salon/Controller/SettingFormViewController.swift"
-            timestampString = "584538759.6002181"
+            timestampString = "585045379.032075"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "524"
@@ -1192,7 +1192,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Salon/Controller/SettingFormViewController.swift"
-            timestampString = "584538759.600278"
+            timestampString = "585045379.03213"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "525"
@@ -1208,7 +1208,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Salon/Controller/SettingFormViewController.swift"
-            timestampString = "584538759.600337"
+            timestampString = "585045379.032186"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "171"
@@ -1224,7 +1224,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Salon/Controller/SettingFormViewController.swift"
-            timestampString = "584538759.600396"
+            timestampString = "585045379.032243"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "230"
@@ -1240,7 +1240,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Salon/Controller/SettingFormViewController.swift"
-            timestampString = "584538759.600456"
+            timestampString = "585045379.0323"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "229"
@@ -1256,7 +1256,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Salon/Controller/SettingFormViewController.swift"
-            timestampString = "584538759.600516"
+            timestampString = "585045379.0323761"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "222"
@@ -1272,7 +1272,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Salon/Controller/SettingFormViewController.swift"
-            timestampString = "584538759.600575"
+            timestampString = "585045379.032454"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "215"
@@ -1288,7 +1288,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Salon/Controller/SettingFormViewController.swift"
-            timestampString = "584538759.6006351"
+            timestampString = "585045379.032523"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "226"
@@ -1304,7 +1304,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Salon/Controller/SettingFormViewController.swift"
-            timestampString = "584538759.600693"
+            timestampString = "585045379.032581"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "225"
@@ -1320,7 +1320,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Salon/Controller/SettingFormViewController.swift"
-            timestampString = "584538759.6007529"
+            timestampString = "585045379.032637"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "196"
@@ -1336,7 +1336,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Salon/Controller/SettingFormViewController.swift"
-            timestampString = "584538759.600811"
+            timestampString = "585045379.032693"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "184"
@@ -1352,7 +1352,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Salon/Controller/SettingFormViewController.swift"
-            timestampString = "584538759.600871"
+            timestampString = "585045379.0327491"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "180"
@@ -1400,7 +1400,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Salon/Controller/SettingFormViewController.swift"
-            timestampString = "584538759.600931"
+            timestampString = "585045379.032806"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "181"
@@ -1416,7 +1416,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Salon/Controller/SettingFormViewController.swift"
-            timestampString = "584538759.600989"
+            timestampString = "585045379.0328619"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "182"
@@ -1432,7 +1432,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Salon/Controller/SettingFormViewController.swift"
-            timestampString = "584538759.601048"
+            timestampString = "585045379.032917"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "529"
@@ -1448,7 +1448,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Salon/Controller/SettingFormViewController.swift"
-            timestampString = "584538759.601107"
+            timestampString = "585045379.032981"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "567"
@@ -1464,7 +1464,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Salon/Controller/SettingFormViewController.swift"
-            timestampString = "584538759.6011651"
+            timestampString = "585045379.0330369"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "566"
@@ -1590,7 +1590,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Salon/Controller/SettingFormViewController.swift"
-            timestampString = "584538759.601421"
+            timestampString = "585045379.033438"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "266"
@@ -1606,7 +1606,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Salon/Controller/SettingFormViewController.swift"
-            timestampString = "584538759.601482"
+            timestampString = "585045379.033522"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "267"
@@ -1622,7 +1622,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Salon/Controller/SettingFormViewController.swift"
-            timestampString = "584538759.601541"
+            timestampString = "585045379.0335881"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "176"
@@ -1638,7 +1638,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Salon/Controller/SettingFormViewController.swift"
-            timestampString = "584538759.6016001"
+            timestampString = "585045379.033649"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "462"
@@ -1654,7 +1654,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Salon/Controller/SettingFormViewController.swift"
-            timestampString = "584538759.60166"
+            timestampString = "585045379.03371"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "477"
@@ -1666,11 +1666,11 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            shouldBeEnabled = "Yes"
+            shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Salon/Controller/SalonDetailTableViewController.swift"
-            timestampString = "584629368.022701"
+            timestampString = "585045969.6989141"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "30"
@@ -1682,11 +1682,11 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            shouldBeEnabled = "Yes"
+            shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Salon/Controller/SalonDetailTableViewController.swift"
-            timestampString = "584629368.023344"
+            timestampString = "585045969.698994"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "31"
@@ -1734,7 +1734,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Salon/Controller/LogViewController.swift"
-            timestampString = "585041261.028489"
+            timestampString = "585045969.699119"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "180"
@@ -1750,12 +1750,12 @@
                   moduleName = "Salon"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/rahul.tiwari/Desktop/SalonBeauty/Salon/Controller/LogViewController.swift"
-                  timestampString = "584538482.810698"
+                  timestampString = "585724871.247592"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "181"
-                  endingLineNumber = "181"
-                  offsetFromSymbolStart = "1499">
+                  startingLineNumber = "180"
+                  endingLineNumber = "180"
+                  offsetFromSymbolStart = "1600">
                </Location>
                <Location
                   shouldBeEnabled = "Yes"
@@ -1765,12 +1765,12 @@
                   moduleName = "Salon"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/rahul.tiwari/Desktop/SalonBeauty/Salon/Controller/LogViewController.swift"
-                  timestampString = "584538482.8152421"
+                  timestampString = "585724871.250079"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "181"
-                  endingLineNumber = "181"
-                  offsetFromSymbolStart = "3257">
+                  startingLineNumber = "180"
+                  endingLineNumber = "180"
+                  offsetFromSymbolStart = "3528">
                </Location>
                <Location
                   shouldBeEnabled = "Yes"
@@ -1780,12 +1780,12 @@
                   moduleName = "Salon"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/rahul.tiwari/Desktop/SalonBeauty/Salon/Controller/LogViewController.swift"
-                  timestampString = "584538482.819881"
+                  timestampString = "585724871.25249"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "182"
-                  endingLineNumber = "182"
-                  offsetFromSymbolStart = "86">
+                  startingLineNumber = "181"
+                  endingLineNumber = "181"
+                  offsetFromSymbolStart = "104">
                </Location>
             </Locations>
          </BreakpointContent>
@@ -1797,7 +1797,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Salon/Controller/LogViewController.swift"
-            timestampString = "585041261.028573"
+            timestampString = "585045969.6991971"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "181"
@@ -1813,7 +1813,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Salon/Controller/LogViewController.swift"
-            timestampString = "585041261.028639"
+            timestampString = "585045969.6992691"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "252"
@@ -1829,7 +1829,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Salon/Controller/LogViewController.swift"
-            timestampString = "585041261.028702"
+            timestampString = "585045969.699329"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "270"
@@ -1845,7 +1845,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Salon/Controller/LogViewController.swift"
-            timestampString = "585041261.028764"
+            timestampString = "585045969.6993901"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "271"
@@ -1861,7 +1861,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Salon/Controller/LogViewController.swift"
-            timestampString = "585041261.028825"
+            timestampString = "585045969.69945"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "276"
@@ -1877,7 +1877,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Salon/Controller/LogViewController.swift"
-            timestampString = "585041261.028888"
+            timestampString = "585045969.69951"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "278"
@@ -1893,12 +1893,12 @@
                   moduleName = "Salon"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/rahul.tiwari/Desktop/SalonBeauty/Salon/Controller/LogViewController.swift"
-                  timestampString = "584538482.874139"
+                  timestampString = "585724871.280741"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "280"
-                  endingLineNumber = "280"
-                  offsetFromSymbolStart = "2118">
+                  startingLineNumber = "279"
+                  endingLineNumber = "279"
+                  offsetFromSymbolStart = "912">
                </Location>
                <Location
                   shouldBeEnabled = "Yes"
@@ -1908,12 +1908,12 @@
                   moduleName = "Salon"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/rahul.tiwari/Desktop/SalonBeauty/Salon/Controller/LogViewController.swift"
-                  timestampString = "584538482.880819"
+                  timestampString = "585724871.283872"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "280"
-                  endingLineNumber = "280"
-                  offsetFromSymbolStart = "2748">
+                  startingLineNumber = "279"
+                  endingLineNumber = "279"
+                  offsetFromSymbolStart = "1516">
                </Location>
                <Location
                   shouldBeEnabled = "Yes"
@@ -1923,12 +1923,12 @@
                   moduleName = "Salon"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/rahul.tiwari/Desktop/SalonBeauty/Salon/Controller/LogViewController.swift"
-                  timestampString = "584538482.8883719"
+                  timestampString = "585724871.286756"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "280"
-                  endingLineNumber = "280"
-                  offsetFromSymbolStart = "3171">
+                  startingLineNumber = "279"
+                  endingLineNumber = "279"
+                  offsetFromSymbolStart = "1972">
                </Location>
             </Locations>
          </BreakpointContent>
@@ -1940,7 +1940,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Salon/Controller/LogViewController.swift"
-            timestampString = "585041261.028947"
+            timestampString = "585045969.699568"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "272"
@@ -1956,7 +1956,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Salon/Controller/LogViewController.swift"
-            timestampString = "585041261.029008"
+            timestampString = "585045969.6996289"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "273"
@@ -1972,7 +1972,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Salon/Controller/LogViewController.swift"
-            timestampString = "585041261.029067"
+            timestampString = "585045969.699688"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "133"
@@ -1988,7 +1988,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Salon/Controller/LogViewController.swift"
-            timestampString = "585041261.029125"
+            timestampString = "585045969.699767"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "136"
@@ -2004,7 +2004,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Salon/Controller/LogViewController.swift"
-            timestampString = "585041261.029184"
+            timestampString = "585045969.699832"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "138"
@@ -2020,7 +2020,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Salon/Controller/LogViewController.swift"
-            timestampString = "585041261.0292439"
+            timestampString = "585045969.699891"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "140"
@@ -2036,45 +2036,13 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Salon/Controller/LogViewController.swift"
-            timestampString = "585041261.029303"
+            timestampString = "585045969.699949"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "143"
             endingLineNumber = "143"
             landmarkName = "CheckUser()"
             landmarkType = "7">
-            <Locations>
-               <Location
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "closure #1 (Swift.Optional&lt;__C.FIRDocumentSnapshot&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Salon.LogViewController.CheckUser() -&gt; ()"
-                  moduleName = "Salon"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/rahul.tiwari/Desktop/SalonBeauty/Salon/Controller/LogViewController.swift"
-                  timestampString = "584538482.969672"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "144"
-                  endingLineNumber = "144"
-                  offsetFromSymbolStart = "1737">
-               </Location>
-               <Location
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "closure #1 () -&gt; () in closure #1 (Swift.Optional&lt;__C.FIRDocumentSnapshot&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Salon.LogViewController.CheckUser() -&gt; ()"
-                  moduleName = "Salon"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/rahul.tiwari/Desktop/SalonBeauty/Salon/Controller/LogViewController.swift"
-                  timestampString = "584538482.97339"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "146"
-                  endingLineNumber = "146"
-                  offsetFromSymbolStart = "4">
-               </Location>
-            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -2100,11 +2068,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Salon/Controller/ProfessionalsViewController.swift"
-            timestampString = "584538759.603219"
+            timestampString = "585725034.859341"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "57"
-            endingLineNumber = "57"
+            startingLineNumber = "95"
+            endingLineNumber = "95"
             landmarkName = "tableView(_:cellForRowAt:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -2112,49 +2080,65 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            shouldBeEnabled = "No"
+            shouldBeEnabled = "Yes"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
-            filePath = "Salon/Controller/ProfessionalsViewController.swift"
-            timestampString = "584538759.603967"
+            filePath = "Salon/Controller/SalonDetailTableViewController.swift"
+            timestampString = "585045969.7000999"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "58"
-            endingLineNumber = "58"
-            landmarkName = "tableView(_:cellForRowAt:)"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "viewDidLoad()"
             landmarkType = "7">
-            <Locations>
-               <Location
-                  shouldBeEnabled = "No"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "Salon.ProfessionalsViewController.tableView(_: __C.UITableView, cellForRowAt: Foundation.IndexPath) -&gt; __C.UITableViewCell"
-                  moduleName = "Salon"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/rahul.tiwari/Desktop/SalonBeauty/Salon/Controller/ProfessionalsViewController.swift"
-                  timestampString = "584538482.999647"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "58"
-                  endingLineNumber = "58"
-                  offsetFromSymbolStart = "2209">
-               </Location>
-               <Location
-                  shouldBeEnabled = "No"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "closure #1 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Salon.ProfessionalsViewController.tableView(_: __C.UITableView, cellForRowAt: Foundation.IndexPath) -&gt; __C.UITableViewCell"
-                  moduleName = "Salon"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/rahul.tiwari/Desktop/SalonBeauty/Salon/Controller/ProfessionalsViewController.swift"
-                  timestampString = "584538483.002601"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "59"
-                  endingLineNumber = "59"
-                  offsetFromSymbolStart = "162">
-               </Location>
-            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Salon/Controller/SalonDetailTableViewController.swift"
+            timestampString = "585045969.700163"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Salon/Controller/SalonDetailTableViewController.swift"
+            timestampString = "585045969.700249"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "42"
+            endingLineNumber = "42"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Salon/Controller/SalonDetailTableViewController.swift"
+            timestampString = "585045969.700313"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
    </Breakpoints>

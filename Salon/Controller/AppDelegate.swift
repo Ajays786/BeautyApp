@@ -13,7 +13,7 @@ import Stripe
 import UserNotifications
 import FBSDKLoginKit
 import GoogleSignIn
-
+import CoreLocation
 
 
 @UIApplicationMain
@@ -30,7 +30,16 @@ class AppDelegate: UIResponder, UIApplicationDelegate, MessagingDelegate{
          FBSDKApplicationDelegate.sharedInstance().application(application, didFinishLaunchingWithOptions: launchOptions)
         //Google Sign-In
         GIDSignIn.sharedInstance().clientID = "280545181435-jrv3q8hg7hdrpg1dq6ev2snj8717acc2.apps.googleusercontent.com"
-     
+        if CLLocationManager.locationServicesEnabled() {
+            switch CLLocationManager.authorizationStatus() {
+            case .notDetermined, .restricted, .denied:
+                print("No access.................................")
+            case .authorizedAlways, .authorizedWhenInUse:
+                print("Access....................................")
+            }
+        } else {
+            print("Location services are not enabled................")
+        }
         
         UIApplication.shared.statusBarStyle = .lightContent
 //        self.window?.backgroundColor = UIColor(patternImage: #imageLiteral(resourceName: "Back"))

@@ -10,7 +10,7 @@ import UIKit
 import Firebase
 import FirebaseFirestore
 import ImageSlideshow
-
+import CoreLocation
 class DealTableViewController: BaseViewController,UITableViewDelegate,UITableViewDataSource {
     @IBOutlet weak var tableView: UITableView!
     @IBOutlet weak var ImageSlideShow: ImageSlideshow!
@@ -161,11 +161,17 @@ class DealTableViewController: BaseViewController,UITableViewDelegate,UITableVie
                 print(error)
                 return
             }
-            if let lat = dic["lat"] as? String, let long = dic["lat"] as? String{
-                let buddylat = Double(lat)
-                let buddylong = Double(long)
-                print("lat..............................",lat)
-                 print("long.............................",long)
+            if let latitude = dic["lat"] as? String, let longitude = dic["long"] as? String{
+                let buddylat = Double(latitude)
+                let buddylong = Double(longitude)
+                let addresss = self.getAddressFromLatLon(pdblLatitude: latitude, withLongitude: longitude)
+                print("address",addresss)
+//                cell.address.text = addresss
+                let myLocation = CLLocation(latitude: lat, longitude: long)
+                let mybuddyLocation = CLLocation(latitude: buddylat!, longitude: buddylong!)
+                let Distance = self.CalculateDistance(MyLocation: myLocation, MybuddyLocation: mybuddyLocation)
+                cell.Miles.text = "\(round(Distance))" + " Miles"
+                dealObject.Miles.append(cell.Miles.text!)
             }
             
         }
@@ -173,7 +179,6 @@ class DealTableViewController: BaseViewController,UITableViewDelegate,UITableVie
         cell.name.text = dealObject.Name
         cell.price.text = dealObject.PromoPrice
         print(dealObject.uid)
-        cell.address.text = "dealObject.address"
         cell.time.text = "\(dealObject.TimeDate.prefix(8))"
         cell.tag = indexPath.row
         cell.Date.text = "\(dealObject.TimeDate.suffix(8))"
@@ -187,6 +192,65 @@ class DealTableViewController: BaseViewController,UITableViewDelegate,UITableVie
         return 120
     }
 
+    func getAddressFromLatLon(pdblLatitude: String, withLongitude pdblLongitude: String)->String{
+        var center : CLLocationCoordinate2D = CLLocationCoordinate2D()
+        let lat: Double = Double("\(pdblLatitude)") ?? 0.0
+        //21.228124
+        let lon: Double = Double("\(pdblLongitude)") ?? 0.0
+        //72.833770
+        let ceo: CLGeocoder = CLGeocoder()
+        center.latitude = lat
+        center.longitude = lon
+        
+        let loc: CLLocation = CLLocation(latitude:center.latitude, longitude: center.longitude)
+        var Address = String()
+        
+        ceo.reverseGeocodeLocation(loc, completionHandler:
+            {(placemarks, error) in
+                if (error != nil)
+                {
+                    print("reverse geodcode fail: \(error!.localizedDescription)")
+                }
+                let pm = placemarks! as [CLPlacemark]
+                
+                if pm.count > 0 {
+                    let pm = placemarks![0]
+                    print(pm.country ?? "placemarks is nill")
+                    print(pm.locality ?? "locality is nill")
+                    print(pm.subLocality ?? "subLocality is nill")
+                    print(pm.thoroughfare ?? "thoroughfare is nill")
+                    print(pm.postalCode ?? "postalCode is nill")
+                    print(pm.subThoroughfare ?? "subThoroughfare is nill")
+                    
+                    
+                    
+                    var addressString : String = ""
+                    if pm.subLocality != nil {
+                        addressString = addressString + pm.subLocality! + ", "
+                        //                        self.Locality = pm.subLocality ?? "nil"
+                    }
+                    //                    if pm.thoroughfare != nil {
+                    //                        addressString = addressString + pm.thoroughfare! + ", "
+                    //                    }
+                    if pm.locality != nil {
+                        addressString = addressString + pm.locality! + ", "
+                        //                        self.Locality.append(", "+pm.locality!)
+                    }
+                    
+                    if pm.postalCode != nil {
+                        addressString = addressString + pm.postalCode! + " "
+                       
+                    }
+                    if pm.country != nil {
+                        //                        addressString = addressString + pm.country! + ", "
+                    }
+                    
+                  Address = addressString
+                    print(addressString)
+                }
+        })
+        return Address
+    }
     
     // MARK: - Navigation
 
